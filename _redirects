@@ -5,5 +5,5 @@
 /researchhub/*          https://develop--icjia-research.netlify.com/:splat          200!
 
 /adultredeploy/*        https://adultredeploy.icjia.cloud/:splat                    200!
-/mhcontinuum/*          https://mhcontinuum.netlify.com/:splat                      200!
-/sudcontinuum/*         https://sudcontinuum.netlify.com/:splat                     200!
+/mhcontinuum/*          https://mhcontinuum-forked.netlify.com/:splat               200!
+/sudcontinuum/*         https://sudcontinuum-forked.netlify.com/:splat              200!
