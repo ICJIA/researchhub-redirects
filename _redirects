@@ -1,5 +1,5 @@
 /researchhub/docs/*     https://develop--icjia-research-docs.netlify.com/:splat     200!
 /researchhub/studio/*   https://develop--icjia-research-studio.netlify.com/:splat   200!
 /researchhub/preview/*  https://develop--icjia-research-preview.netlify.com/:splat  200!
-/researchhub/files/*    https://research.icjia-api.cloud/uploads/:splat             200!
+/researchhub/files/*    https://researchhub.icjia-api.cloud/uploads/:splat             200!
 /researchhub/*          https://develop--icjia-research.netlify.com/:splat          200!
