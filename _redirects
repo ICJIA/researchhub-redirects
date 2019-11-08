@@ -1,5 +1,5 @@
-/researchhub/docs/*     https://researchhub-docs.icjia.cloud/:splat         200!
-/researchhub/studio/*   https://researchhub-studio.icjia.cloud/:splat       200!
-/researchhub/preview/*  https://researchhub-preview.icjia.cloud/:splat      200!
+/researchhub/docs/*     https://researchhub-docs.netlify.com/:splat         200!
+/researchhub/studio/*   https://researchhub-studio.netlify.com/:splat       200!
+/researchhub/preview/*  https://researchhub-preview.netlify.com/:splat      200!
 /researchhub/files/*    https://researchhub.icjia-api.cloud/uploads/:splat  200!
-/researchhub/*          https://researchhub.icjia.cloud/:splat              200!
+/researchhub/*          https://researchhub.netlify.com/:splat              200!
